@@ -1,0 +1,15 @@
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora archivos de configuración SASS
+.sass-cache
+
+# dependencies
+/node_modules
+
+# Ignora los Package JSON
+package-lock.json 
+package.json 
